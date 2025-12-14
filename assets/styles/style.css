@@ -1,0 +1,41 @@
+*   {
+    margin: 0px;
+    padding: 0px;
+}
+
+body  {
+    font-family: "Vidaloka", serif;
+}
+
+.navbar {
+    height: 45px;
+}
+
+.navbar-brand   {
+    font-weight: 700;
+    font-size: 25px;
+    font-family: "Vidaloka", serif;
+}
+
+.navbar-collapse    {
+    justify-content: right;
+    align-items: end;
+    font-size: 18px;
+}
+
+.text-color {
+    color: #b80e63;
+}
+
+.container  {
+    justify-content: center;
+}
+
+.card-img-top   {
+    width: 200px;
+    height: 220px;
+}
+
+.card-text{
+    font-family: "Vidaloka", serif;
+}
